@@ -1,0 +1,6 @@
+# Graphify Ignore File
+node_modules/
+.git/
+.agents/
+graphify-out/
+extract_docs.py
