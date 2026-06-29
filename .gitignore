@@ -41,3 +41,12 @@ logs/
 
 # Graphify auto-generated output (optional - remove if you want to track it)
 graphify-out/
+
+# Next.js
+.next/
+out/
+.env*.local
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
